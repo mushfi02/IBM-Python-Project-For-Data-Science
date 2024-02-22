@@ -1,4 +1,4 @@
-### Python Project For Data Science By IBM
+## Python Project For Data Science By IBM
 
 ### Analyzing Historical Stock/Revenue Data and Building a Dashboard with Python
 
